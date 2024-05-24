@@ -18,6 +18,9 @@ body {
 .img-left {
     text-align: left;
 }
-*P {
-
+p {
+    width: 868px;
+    height: 57px;
+    top: 494px;
+    left: 25px;
 }
